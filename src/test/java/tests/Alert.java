@@ -1,5 +1,6 @@
 package tests;
 
-public class Alert {
+import base.BaseTest;
 
+public class Alert extends BaseTest {
 }
